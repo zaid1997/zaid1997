@@ -1,5 +1,5 @@
 ### Hi there, I'm Zaid - AKA [Kindman] 👋
-
+---
 ## Great Spirit.
 - 🌱 I’m currently learning Xamarin, Batch scripting.
 - 👯 I’m looking to learn more about and be creative.
