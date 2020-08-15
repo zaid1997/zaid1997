@@ -1,10 +1,10 @@
 ### Hi there, I'm Zaid - AKA [Kindman] 👋
 
 ## Great Spirit.
-- 🌱 I’m currently learning Xamarin.
+- 🌱 I’m currently learning Xamarin, Batch scripting.
 - 👯 I’m looking to learn more about and be creative.
 - 🥅 2020 Goals: creating my first well designed application.
-- ⚡ Fun fact: I love to taking photos and playing video games.
+- ⚡ Fun fact: I love Photography and playing video games.
 
 ### Connect with me:
 
