@@ -1,7 +1,7 @@
 ### Hi there, I'm Zaid - AKA Kindman 👋
 ---
 ## Great Spirit.
-- 😎 I’m currently working on a c# project.
+- 😎 Currently focusing on exams and Web Development.
 - 😊 I’m looking to learn more and be creative.
 - 🙂 2020 Goals: creating my first well designed application.
 - 😁 Fun fact: I love Photography 📷 and Gaming 🎮.
