@@ -1,7 +1,7 @@
 ### Hi there, I'm Zaid - AKA Kindman 👋
 ---
 ## Great Spirit.
-- 😎 Learning React.js, React native & Node.js.
+- 😎 Learning Laravel currently.
 - 😊 I’m looking to learn more and be creative.
 - 🙂 2020 Goals: creating my first well designed application.
 - 😁 Fun fact: I love Photography 📷 and Gaming 🎮.
