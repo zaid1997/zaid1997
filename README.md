@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/Zaid_Kindman
+[twitter]: https://twitter.com/ZaidKindman
 [facebook]: https://www.facebook.com/ZaidKindman
 [youtube]: https://www.youtube.com/channel/UCIetMIJFjXOLK5xVpENjtFw?view_as=subscriber
 [instagram]: https://www.instagram.com/zaidkindman/?hl=en
