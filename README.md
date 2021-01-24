@@ -1,9 +1,9 @@
 ### Hi there, I'm Zaid - AKA Kindman 👋
 ---
 ## Great Spirit.
-- 😫 Working on many projects currently.
+- 😫 Working on a C# desktop application now.
 - 😊 I’m looking to learn more and be creative.
-- 🙂 2020 Goals: creating my first well designed application.
+- 🙂 2021 Goals: Making money of programming applications.
 - 😁 Fun fact: I love Photography 📷 and Gaming 🎮.
 
 ### Connect with me:
