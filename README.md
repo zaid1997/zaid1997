@@ -1,10 +1,10 @@
 ### Hi there, I'm Zaid - AKA Kindman 👋
 ---
 ## Great Spirit.
-- 😫 Working on a C# desktop application now.
+- 🧐 learning ASP.NET Core.
 - 😊 I’m looking to learn more and be creative.
-- 🙂 2021 Goals: Making money of programming applications.
-- 😁 Fun fact: I love Photography 📷 and Gaming 🎮.
+- 🙂 2021 Goals: Making money of programming applications (DONE 😀).
+- 😁 Fun facts: I love Photography 📷 and Gaming 🎮.
 
 ### Connect with me:
 
